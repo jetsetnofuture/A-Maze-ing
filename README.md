@@ -1,4 +1,4 @@
-# JSBasics-MazeGame
+# Maze Browser Game
 An in-browser maze game made with Matter.js and DOM manipulation. From the Colt Steele Modern JS Course on Udemy.
 
 ## Things I Learned
